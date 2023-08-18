@@ -4,12 +4,6 @@ This directory contains a script to solve a set of tasks. You can find the probl
 
 ## Getting Started
 
-### Prerequisites
-
-Before using the script, ensure you have the following prerequisites:
-
-- Linux-based operating system (tested on RHEL9)
-
 ### Downloading the Script
 
 To download the script, run the following command in your terminal:
