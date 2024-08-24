@@ -9,7 +9,7 @@ This directory contains a script to solve a set of tasks. You can find the probl
 To download the script, run the following command in your terminal:
 
 ```bash
-wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/AWS-Modules/main/Module2/UNNATI-AWS-MODULE2
+wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/AWS-Modules/main/Module2/UNNATI-AWS-KUCL-MODULE2
 ```
 
 ### Giving Execute Permission
@@ -17,7 +17,7 @@ wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/AWS-Modules/main/Mo
 After downloading the script, you need to give it execute permission. Use the following command:
 
 ```bash
-chmod +x /usr/bin/UNNATI-AWS-MODULE2
+chmod +x /usr/bin/UNNATI-AWS-KUCL-MODULE2
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ Once the script is downloaded and has the necessary permissions, you can use it 
 To use the script, execute the following command:
 
 ```bash
-UNNATI-AWS-MODULE2 grade task1
+UNNATI-AWS-KUCL-MODULE2 grade task1
 ```
 
 Replace 'task1' with the task number of your choice.
