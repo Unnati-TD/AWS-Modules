@@ -1,4 +1,4 @@
-# Module 2 Readme
+# Module 3 Readme
 
 This directory contains a script to solve a set of tasks. You can find the problem statements in the file named "Module3 Tasks.md" or you can download the "Module3 Tasks.pdf". To use the script, follow the instructions below:
 
