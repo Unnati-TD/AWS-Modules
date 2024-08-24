@@ -9,7 +9,7 @@ This directory contains a script to solve a set of tasks. You can find the probl
 To download the script, run the following command in your terminal:
 
 ```bash
-wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/AWS-Modules/main/Module2/UNNATI-AWS-KUCL-MODULE2
+sudo wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/AWS-Modules/main/Module2/UNNATI-AWS-KUCL-MODULE2
 ```
 
 ### Giving Execute Permission
