@@ -17,7 +17,7 @@ sudo wget -P /usr/bin https://raw.githubusercontent.com/Unnati-TD/AWS-Modules/ma
 After downloading the script, you need to give it execute permission. Use the following command:
 
 ```bash
-chmod +x /usr/bin/UNNATI-AWS-KUCL-MODULE2
+sudo chmod +x /usr/bin/UNNATI-AWS-KUCL-MODULE2
 ```
 
 ## Usage
